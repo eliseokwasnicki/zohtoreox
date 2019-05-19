@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaoshaicae.bidstar.co.uk/sitemap.xml
